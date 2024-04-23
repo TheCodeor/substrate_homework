@@ -1,2 +1,2 @@
-# RustBubbleSort
-# substrate_homework
+# substrate入门课作业
+
